@@ -1,0 +1,13 @@
+// $Id$
+// vim:ft=javascript
+
+// If your extension references something external, use ARG_WITH
+// ARG_WITH("icebear", "for icebear support", "no");
+
+// Otherwise, use ARG_ENABLE
+// ARG_ENABLE("icebear", "enable icebear support", "no");
+
+if (PHP_ICEBEAR != "no") {
+	EXTENSION("icebear", "icebear.c");
+}
+
