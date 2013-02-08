@@ -1,5 +1,6 @@
 
-
+2013-02-08 Bernhard Kraft  <kraftb@kraftb.at>
+	* Created basic PHP extension structure using ext_skel and phpize5
 
 2013-01-31 Bernhard Kraft  <kraftb@kraftb.at>
 	* Created "Changelog" file on github
