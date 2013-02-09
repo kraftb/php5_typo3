@@ -1,0 +1,10 @@
+To build this module use the following commands in a shell.
+Of course the PHP5 building environment must be properly working.
+
+phpize5
+./configure
+make
+sudo make install
+
+The last command (sudo make install) can be left out if you do not wish to install the experimental version of this
+PHP module to your PHP module directory. You can also test the module by using appropriate PHP commandline arguments.
