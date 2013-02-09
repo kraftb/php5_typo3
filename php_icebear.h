@@ -24,6 +24,7 @@ PHP_RSHUTDOWN_FUNCTION(icebear);
 PHP_MINFO_FUNCTION(icebear);
 
 PHP_FUNCTION(confirm_icebear_compiled);	/* For testing, remove later. */
+PHP_FUNCTION(trimExplode);	
 
 /* 
   	Declare any global variables you may need between the BEGIN

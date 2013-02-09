@@ -1,4 +1,7 @@
 
+2013-02-09 Bernhard Kraft  <kraftb@kraftb.at>
+	* Experimented around and tried to implement t3lib_div::trimExplode: Works almost functional except a few flaws
+
 2013-02-08 Bernhard Kraft  <kraftb@kraftb.at>
 	* Created basic PHP extension structure using ext_skel and phpize5
 
